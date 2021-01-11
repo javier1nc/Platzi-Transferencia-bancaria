@@ -355,8 +355,9 @@ function mostrarHorarios() {
   document.write("</table>");
 }
 
-starApp();
 
+// Crear tablas 
+starApp();
 function starApp() {
   // Ver Clientes
   mostrarClientes();
